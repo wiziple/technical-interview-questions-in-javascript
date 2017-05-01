@@ -1,5 +1,5 @@
-# technical-interview-in-javascript
-This is just private note for my interview. If you found this repo by googling, please check below awesome links instead.
+# Technical-Interview-Questions-In-JavaScript
+This is just my private note for interview. If you found this repo by googling, please check below awesome links instead.
 
 * https://github.com/MaximAbramchuck/awesome-interview-questions#javascript
 * https://github.com/kennymkchan/interview-questions-in-javascript
@@ -15,6 +15,7 @@ Run Code Runner
 
 ## Check List
 
+* Terms
 * Time or Space Complexity
 * Recursive
 * String
@@ -26,15 +27,22 @@ Run Code Runner
 * Sort
 * Search
 
+## Terms
+
+* Permutation
+* Palindrome
+* Isomorphic
+
 ## Time or Space Complexity
+
+* http://stackoverflow.com/questions/1592649/examples-of-algorithms-which-has-o1-on-log-n-and-olog-n-complexities
 
 * O(1) -> Constant
 * O(n) -> Linear
 * O(n^2) n power of 2
 * O(log n) -> Binary Search 
 * O(n log n)
-
-* http://stackoverflow.com/questions/1592649/examples-of-algorithms-which-has-o1-on-log-n-and-olog-n-complexities
+* ...
 
 ## Javascript Class Example
 
