@@ -5,6 +5,14 @@ This is just private note for my interview. If you found this repo by googling, 
 * https://github.com/kennymkchan/interview-questions-in-javascript
 * https://github.com/careercup/CtCI-6th-Edition-JavaScript-ES2015
 
+## Simply way to run JavaScript in IDE without Web Browser
+
+```
+Install vscode
+Install Code Runner Extension #https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
+Run Code Runner
+```
+
 ## Check List
 
 * Time or Space Complexity
